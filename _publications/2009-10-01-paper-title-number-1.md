@@ -1,10 +1,10 @@
 ---
-title: "Biomass HHV Prediction using AI methodologies by data from Literature"
+title: "Biomass HHV Prediction using AI"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about Ha Ha Ha the number 1. The number 2 is left for future work.'
-date: 2017-17-17
+date: 2009-10-01
 venue: 'Journal 17 Ha Ha Ha'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
