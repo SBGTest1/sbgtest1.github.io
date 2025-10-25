@@ -1,16 +1,11 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
----
     layout: page
     title: "Research"
     permalink: /research1/
+    author_profile: true
+    redirect_from:
+  - /research1/
+  - /research1.html
 ---
 
 Ha Ha Ha This is the Research Page
