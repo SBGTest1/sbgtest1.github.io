@@ -20,10 +20,10 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Research"
+  - title: "     Research    "
     url: /research1/
     
-  - title: "CV"
+  - title: "     CV      "
     url: /cv/
     
   # - title: "CV"
