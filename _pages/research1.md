@@ -5,7 +5,6 @@
     author_profile: true
     redirect_from:
   - /research1/
-  - /research1.html
 ---
 
 Ha Ha Ha This is the Research Page
