@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+---
+    layout: page
+    title: "Research"
+    permalink: /research1/
+---
+
 Ha Ha Ha This is the Research Page
 
 
