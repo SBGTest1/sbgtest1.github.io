@@ -1,5 +1,5 @@
 ---
-title: "Biomass HHV Prediction using AI"
+title: "Prediction of higher heating value of solid biomass fuels using artificial intelligence formalisms"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
