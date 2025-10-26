@@ -441,7 +441,7 @@ body:hover .visually-hidden button {
   width: 300px;
   top: 50%;
   left: 50%;
-  margin-left: -150px;
+  margin-left: -250px;
   margin-top: -150px;
   min-height: 0;
   z-index: 9999;
@@ -452,7 +452,7 @@ body:hover .visually-hidden button {
 
   &__title {
     margin: 0;
-    padding: 2em 2em;
+    padding: 0.5em 1em;
   }
 
   &__supporting-text {
