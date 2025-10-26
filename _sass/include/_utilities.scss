@@ -369,7 +369,7 @@ body:hover .visually-hidden button {
   /* rotate the lines to form the x shape*/
   &:before{
     -webkit-transform: rotate3d(0,0,1,45deg);
-            transform: rotate3d(0,0,1,45deg);
+            transform: rotate3d(0,0,1,90deg);
   }
   &:after{
     -webkit-transform: rotate3d(0,0,1,-45deg);
