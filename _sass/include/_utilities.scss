@@ -456,11 +456,11 @@ body:hover .visually-hidden button {
   }
 
   &__supporting-text {
-    padding: 2 2em 2em 2em;
+    padding: 0 1em 0.5em 1em;
   }
 
   &__actions {
-    padding: 0.5em 1em;
+    padding: 2em 2em;
     border-top: 1px solid var(--global-border-color);
   }
 }
