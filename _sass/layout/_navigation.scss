@@ -277,10 +277,10 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: #FFFF00;
-        background: #FFFF00;
+        color: var(--global-masthead-link-color-hover);
+        background: var(--global-border-color);
       }
-    }
+  }
 
     &:before {
       content: "";
