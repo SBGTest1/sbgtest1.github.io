@@ -351,7 +351,7 @@
     border-radius: $border-radius;
 
     &:hover {
-      color: #FFFF00;
+      color: #fff;
     }
   }
 }
@@ -417,7 +417,7 @@
     text-decoration-line: none !important;
 
     &:hover {
-      color: #000;
+      color: #FFFF00;
       background: var(--global-link-color-hover);
     }
   }
