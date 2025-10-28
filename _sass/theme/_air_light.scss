@@ -4,17 +4,17 @@
 
 /* Color codes used for the theme */
 $primary-color              : #FFFF00;
-$dark-primary-color         : mix(#000, $primary-color, 40%);
-$darker-primary-color       : mix(#000, $primary-color, 60%);
-$light-primary-color        : mix(#000, $primary-color, 50%);
+$dark-primary-color         : #FFFF00;
+$darker-primary-color       : #FFFF00;
+$light-primary-color        : #FFFF00;
 
 $background                 : #FFFF00;
-$background-light           : mix(#fff, $background, 20%);
-$background-lighter         : mix(#fff, $background, 90%);
+$background-light           : #FFFF00;
+$background-lighter         : #FFFF00;
 $text                       : #222831;
 $link                       : #FFFF00;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
+$link-dark                  : #FFFF00;
+$link-light                 : #FFFF00;
 $footer                     : $primary-color;
 
 /* Color codes used for the site */
