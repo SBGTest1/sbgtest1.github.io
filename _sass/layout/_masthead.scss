@@ -60,16 +60,16 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-text-decoration-color: #ffff00 !important;
+text-decoration-color: #0066FF !important;
    padding-left: 1.2em; 
   padding-right: 1.2em;
   
 }
 .masthead__menu-item a:hover {
-  text-decoration-color: #0066FF; /* Change the underline color */
+  text-decoration-color: #00CC00; /* Change the underline color */
 }
 
 // You might also need to change the link's text color
 .masthead a:hover {
-  color: #0066FF; /* Change the text color */
+  color: #FF0000; /* Change the text color */
 }
